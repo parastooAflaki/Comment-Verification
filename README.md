@@ -1,2 +1,2 @@
-# Comment-Varification
+# Comment-Verification
 DigikalaNext contest 
